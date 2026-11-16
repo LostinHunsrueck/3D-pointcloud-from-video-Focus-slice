@@ -1,5 +1,3 @@
-# 3D-pointcloud-from-video-Focus-slice
-Using Python and Open3D to create a pointcloud from a microscopic shorrt video focus-slice 
 # 3D Pointcloud from Microscopic Focus-Slice Video
 
 Using Python and Open3D to reconstruct a 3D pointcloud from a short microscopic focus-slice video.
