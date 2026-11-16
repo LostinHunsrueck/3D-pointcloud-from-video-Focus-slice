@@ -19,6 +19,9 @@ Using Python and Open3D to reconstruct a 3D pointcloud from a short microscopic 
    python PointCloud-ver100.py
    ```
 
+🎥 **Video Demo:** [Watch Fennel (*Foeniculum vulgare*) Stomata 3D Reconstruction on YouTube](https://www.youtube.com/watch?v=r6UlsgvA_ig)
+
+
 ## Files in This Repository
 * `PointCloud-ver100.py` — Main Python script for processing the video and building the pointcloud.
 * `record_mode1_2026-10-15_22-36-32.wmv` — Sample microscopic focus-slice input video.
